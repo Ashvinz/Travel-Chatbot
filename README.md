@@ -19,8 +19,8 @@ An AI-powered chatbot designed to assist travelers by answering queries about de
 
 ## 📖 Example Usage
 ```
-User: What are the best places to visit in Paris?
-Bot: Here are some must-visit attractions in Paris...
+User: Do you have any 4-wheel drive vehicles available?
+Bot: Yes! We have SUVs and off-road vehicles available for rental. Would you like to see the options?
 ```
 
 ## 🤝 Contributing
